@@ -83,8 +83,8 @@ No frameworks or page builders were used.
   https://www.youtube.com/watch?v=Zl-MS9TY8_w
 - Tutorial author and asset owner: **Nicolai Palmkvist**
 
-The original tutorial implementation uses Elementor.  
-This repository does **not** reuse any page-builder code.
+The original tutorial implementation uses Elementor. This repository does **not** reuse any page-builder code (which is the purpose of the whole 
+exercise). 
 
 ### Code Implementation
 
