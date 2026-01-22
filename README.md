@@ -48,7 +48,7 @@ No frameworks or page builders were used.
 ---
 
 ## Project Structure
-/
+```/
 ├── index.html
 ├── css/
 │ └── style.css
@@ -56,7 +56,7 @@ No frameworks or page builders were used.
 │ └── script.js
 └── img/
   └── responsive, art-directed images
-
+```
 
 
 ---
