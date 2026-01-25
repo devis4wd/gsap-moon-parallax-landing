@@ -4,6 +4,8 @@ A scroll-driven landing page built with **HTML, CSS and GSAP**, featuring layere
 
 This project is a **technical reinterpretation** of a visual concept originally presented in a tutorial by **Nicolai Palmkvist**, rebuilt entirely from scratch without the use of page builders.
 
+You can see a live preview here: https://devis4wd.github.io/gsap-moon-parallax-landing/
+
 ---
 
 ## Overview
